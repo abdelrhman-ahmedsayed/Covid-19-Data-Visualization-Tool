@@ -231,6 +231,13 @@ Contributions are welcome! Feel free to:
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
+---
+
+## 📄 Overview
+
+<img width="1399" height="849" alt="image" src="https://github.com/user-attachments/assets/6d604a54-9acb-41dd-b67a-06b7ea41e273" />
+
+---
 
 ## 🙏 Acknowledgments
 
